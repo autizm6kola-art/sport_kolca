@@ -38,13 +38,13 @@ function BackupControls() {
   };
 
   return (
-    <div style={{ marginTop: '20px' }}>
+    <div style={{ marginTop: '1px' }}>
       <button className="reset-button" onClick={handleExport}>
-        Сохранить прогресс
+        Сохранить
       </button>
 
       <label className="reset-button" style={{ marginLeft: '10px' }}>
-        Загрузить прогресс
+        Загрузить
         <input
           type="file"
           accept="application/json"
