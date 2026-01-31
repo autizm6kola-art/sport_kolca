@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sport_kolca/static/css/main.202ca3c3.css",
-    "main.js": "/sport_kolca/static/js/main.29c129b7.js",
+    "main.js": "/sport_kolca/static/js/main.11c0b9c3.js",
     "static/js/453.d37bcb50.chunk.js": "/sport_kolca/static/js/453.d37bcb50.chunk.js",
     "index.html": "/sport_kolca/index.html",
     "main.202ca3c3.css.map": "/sport_kolca/static/css/main.202ca3c3.css.map",
-    "main.29c129b7.js.map": "/sport_kolca/static/js/main.29c129b7.js.map",
+    "main.11c0b9c3.js.map": "/sport_kolca/static/js/main.11c0b9c3.js.map",
     "453.d37bcb50.chunk.js.map": "/sport_kolca/static/js/453.d37bcb50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.202ca3c3.css",
-    "static/js/main.29c129b7.js"
+    "static/js/main.11c0b9c3.js"
   ]
 }
